@@ -1,0 +1,17 @@
+/api/multiPln/generateContract  合同信息建立接口
+/api/multiPln/loan   放款接口
+/api/multiPln/loanInfo 出账申请查询接口
+/api/multiPln/changeContract  合同信息修改接口
+/api/multiPln/contractApply  合同申请查询接口
+/api/multiPln/queryPayRecord  还款记录查询接口
+/api/multiPln/queryPaySchedule  还款计划查询接口
+/api/multiPln/payScheduleTrial  无放款还款计划试算接口
+/api/multiPln/payTrial  提前还款试算执行接口
+/api/multiPln/queryLoanAccountInfo  借款账务信息查询接口
+/api/multiPln/guaranteeInfoSync  保证人信息同步接口
+/api/multiPln/mortgateInfoSync  抵押信息同步接口	
+/api/multiPln/pledgeInfoSync  质押信息同步接口
+/api/multiPln/preLoanCheck  贷前测评接口
+/api/multiPln/coBorrowerInfoSync  共同借款人信息同步接口
+/api/multiPln/changeContractAmt  授信卡额度调整接口
+/api/multiPln/getSummaryInfoByContract  根据合同编号查询借据信息接口
