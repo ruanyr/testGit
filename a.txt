@@ -16,5 +16,6 @@
 /api/multiPln/changeContractAmt  授信卡额度调整接口
 /api/multiPln/getSummaryInfoByContract  根据合同编号查询借据信息接口
 /api/ttttt/ hahah
+jijimei
 meizhoudao add line
 ruanyirong add line
