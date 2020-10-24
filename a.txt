@@ -15,3 +15,4 @@
 /api/multiPln/coBorrowerInfoSync  共同借款人信息同步接口
 /api/multiPln/changeContractAmt  授信卡额度调整接口
 /api/multiPln/getSummaryInfoByContract  根据合同编号查询借据信息接口
+/api/ttttt/ hahah
